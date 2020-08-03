@@ -1,0 +1,12 @@
+C:\Users\Infinity-Win\Desktop\DemoService\bin\Debug\DemoService.exe.config
+C:\Users\Infinity-Win\Desktop\DemoService\bin\Debug\DemoService.exe
+C:\Users\Infinity-Win\Desktop\DemoService\bin\Debug\DemoService.pdb
+C:\Users\Infinity-Win\Desktop\DemoService\obj\Debug\DemoService.csprojAssemblyReference.cache
+C:\Users\Infinity-Win\Desktop\DemoService\obj\Debug\DemoService.csproj.CoreCompileInputs.cache
+C:\Users\Infinity-Win\Desktop\DemoService\obj\Debug\DemoService.exe
+C:\Users\Infinity-Win\Desktop\DemoService\obj\Debug\DemoService.pdb
+C:\Users\Infinity-Win\Desktop\DemoService\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Infinity-Win\Desktop\DemoService\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Infinity-Win\Desktop\DemoService\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Infinity-Win\Desktop\DemoService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Infinity-Win\Desktop\DemoService\obj\Debug\DemoService.csproj.CopyComplete
